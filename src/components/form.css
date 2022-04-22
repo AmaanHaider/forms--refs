@@ -3,19 +3,18 @@
     font-weight: 700;  
 }
 form{
-    background-color:rgba(23, 140, 146, 0.73);
+    background-color:rgba(219, 168, 37, 0.73);
     width: 40%;
-    border-radius: 200px;
+   
     padding: 20px;
 }
 input{
     margin-bottom: 10px;
-    border-radius: 8px;
 }
 .submit{
     margin-top: 10px;
     color: white;
-    background-color: rgb(188, 86, 125);
+    background-color: rgb(35, 79, 192);
     border: none;
     border-radius: 8px;
     padding: 5px;
@@ -28,6 +27,6 @@ select{
 }
 
 option{
-    background-color: rgb(255, 255, 136);
+    background-color: rgb(199, 24, 24);
     font-weight: 700; 
 }
