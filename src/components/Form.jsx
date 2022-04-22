@@ -42,9 +42,9 @@ function Form(){
         {" "}
         age:
         <input
-          type="text"
+          type="number"
           id="age"
-          placeholder="Enter last name"
+          placeholder="Enter Age"
           onChange={handleChange}
         />
       </div>
