@@ -65,10 +65,10 @@ function Form(){
           id="department"
           onChange={handleChange}
         >
-          <option value="law">LIGHT</option>
-          <option value="commerce">CFL</option>
-          <option value="science">BULB</option>
-          <option value="sports">LED</option>
+          <option value="law">Car</option>
+          <option value="commerce">Bike</option>
+          <option value="science">Truck </option>
+          <option value="sports">Train</option>
         </select>
       </div>
       <div>
